@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "n/a",
+  "iEEGCoordinateSystemDescription": "No spatial coordinates supplied in the source NWB (x/y/z are NaN). All x/y/z entries are n/a; Other does not assert a coordinate system."
+}

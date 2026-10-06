@@ -1,0 +1,8 @@
+{
+  "participant_id": {
+    "Description": "Original public release subject code (NWB general/subject/subject_id); no demographic inference."
+  },
+  "species": {
+    "Description": "NWB general/subject/species."
+  }
+}

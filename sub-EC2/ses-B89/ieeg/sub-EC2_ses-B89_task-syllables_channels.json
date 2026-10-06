@@ -1,0 +1,11 @@
+{
+  "units": {
+    "Description": "Copied from the NWB ElectricalSeries unit attribute ('volt'). Per the NWB specification, physical value = stored value x conversion attribute (see _ieeg.json NWBSignalMetadata.attributes.conversion). Nothing was rescaled; see README for the scaling caveat."
+  },
+  "nwb_table_row": {
+    "Description": "Zero-based electrode table row selected by ElectricalSeries/electrodes, in signal column order."
+  },
+  "nwb_electrode_id": {
+    "Description": "Original electrode table id; used as channel name only when no explicit label exists."
+  }
+}

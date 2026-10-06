@@ -1,0 +1,39 @@
+{
+  "TaskName": "syllables",
+  "TaskDescription": "Reading aloud consonant-vowel syllables from a list (source collection description); the NWB trials column speak distinguishes speaking (True) from listening (False).",
+  "SamplingFrequency": 3051.7578125,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "iEEGReference": "n/a",
+  "ECOGChannelCount": 256,
+  "SEEGChannelCount": 0,
+  "RecordingType": "continuous",
+  "RecordingDuration": 658.33795584,
+  "NWBSignalMetadata": {
+    "path": "/acquisition/ElectricalSeries/data",
+    "shape": [
+      2009088,
+      256
+    ],
+    "dtype": "float32",
+    "attributes": {
+      "conversion": 0.001,
+      "resolution": 0.0,
+      "unit": "volt"
+    },
+    "starting_time": 0.0,
+    "rate": 3051.7578125,
+    "channel_conversion": null,
+    "stored_value_probe": {
+      "window_samples": [
+        989286,
+        1019803
+      ],
+      "finite_fraction": 1.0,
+      "median_abs": 0.0001750600858940743,
+      "p99_abs": 0.000691270388197154,
+      "median_channel_std": 4.237918096190313e-05
+    }
+  },
+  "InstitutionName": "University of California, San Francisco"
+}

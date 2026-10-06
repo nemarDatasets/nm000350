@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "n/a",
+  "iEEGCoordinateSystemDescription": "The source NWB electrode table contains x/y/z values, kept unchanged in electrodes.tsv columns nwb_x, nwb_y, nwb_z. The source does not document their coordinate frame or units, so BIDS x/y/z are n/a and no coordinate system is asserted."
+}

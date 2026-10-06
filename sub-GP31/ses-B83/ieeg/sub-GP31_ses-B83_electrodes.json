@@ -1,0 +1,38 @@
+{
+  "nwb_bad": {
+    "Description": "Original NWB electrode table field bad; no coordinate or anatomical inference."
+  },
+  "nwb_electrode_id": {
+    "Description": "Original NWB electrode table field electrode_id; no coordinate or anatomical inference."
+  },
+  "nwb_filtering": {
+    "Description": "Original NWB electrode table field filtering; no coordinate or anatomical inference."
+  },
+  "nwb_group": {
+    "Description": "Original NWB electrode table field group; no coordinate or anatomical inference."
+  },
+  "nwb_group_name": {
+    "Description": "Original NWB electrode table field group_name; no coordinate or anatomical inference."
+  },
+  "nwb_id": {
+    "Description": "Original NWB electrode table field id; no coordinate or anatomical inference."
+  },
+  "nwb_imp": {
+    "Description": "Original NWB electrode table field imp; no coordinate or anatomical inference."
+  },
+  "nwb_location": {
+    "Description": "Source NWB electrode location label (anatomical label as published; the source collection describes hand-marked anatomical labels). Empty in source -> n/a."
+  },
+  "nwb_table_row": {
+    "Description": "Original NWB electrode table field table_row; no coordinate or anatomical inference."
+  },
+  "nwb_x": {
+    "Description": "Source NWB electrode table column x ('the x coordinate of the channel location'), unchanged. Frame and units are not documented by the source; n/a where the source value is NaN."
+  },
+  "nwb_y": {
+    "Description": "Source NWB electrode table column y ('the y coordinate of the channel location'), unchanged. Frame and units are not documented by the source; n/a where the source value is NaN."
+  },
+  "nwb_z": {
+    "Description": "Source NWB electrode table column z ('the z coordinate of the channel location'), unchanged. Frame and units are not documented by the source; n/a where the source value is NaN."
+  }
+}

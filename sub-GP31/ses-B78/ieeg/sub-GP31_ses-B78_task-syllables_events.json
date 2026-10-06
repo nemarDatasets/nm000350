@@ -1,0 +1,81 @@
+{
+  "nwb_epochs_id": {
+    "Description": "id",
+    "Source": "/intervals/epochs/id"
+  },
+  "nwb_epochs_label": {
+    "Description": "label",
+    "Source": "/intervals/epochs/label"
+  },
+  "nwb_epochs_start_time": {
+    "Description": "Start time of epoch, in seconds",
+    "Source": "/intervals/epochs/start_time",
+    "Units": "s"
+  },
+  "nwb_epochs_stop_time": {
+    "Description": "Stop time of epoch, in seconds",
+    "Source": "/intervals/epochs/stop_time",
+    "Units": "s"
+  },
+  "nwb_invalid_times_id": {
+    "Description": "id",
+    "Source": "/intervals/invalid_times/id"
+  },
+  "nwb_invalid_times_start_time": {
+    "Description": "Start time of epoch, in seconds",
+    "Source": "/intervals/invalid_times/start_time",
+    "Units": "s"
+  },
+  "nwb_invalid_times_stop_time": {
+    "Description": "Stop time of epoch, in seconds",
+    "Source": "/intervals/invalid_times/stop_time",
+    "Units": "s"
+  },
+  "nwb_invalid_times_tags": {
+    "Description": "user-defined tags",
+    "Source": "/intervals/invalid_times/tags"
+  },
+  "nwb_invalid_times_timeseries": {
+    "Description": "index into a TimeSeries object",
+    "Source": "/intervals/invalid_times/timeseries"
+  },
+  "nwb_trials_condition": {
+    "Description": "syllable spoken",
+    "Source": "/intervals/trials/condition"
+  },
+  "nwb_trials_cv_transition_time": {
+    "Description": "time of CV transition in seconds",
+    "Source": "/intervals/trials/cv_transition_time",
+    "Units": "s"
+  },
+  "nwb_trials_id": {
+    "Description": "id",
+    "Source": "/intervals/trials/id"
+  },
+  "nwb_trials_speak": {
+    "Description": "if True, subject is speaking. If False, subject is listening",
+    "Source": "/intervals/trials/speak"
+  },
+  "nwb_trials_start_time": {
+    "Description": "Start time of epoch, in seconds",
+    "Source": "/intervals/trials/start_time",
+    "Units": "s"
+  },
+  "nwb_trials_stop_time": {
+    "Description": "Stop time of epoch, in seconds",
+    "Source": "/intervals/trials/stop_time",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "NWB intervals table name, or cv_transition for explicit point event."
+  },
+  "source_table": {
+    "Description": "Absolute NWB HDF5 interval table path."
+  },
+  "source_row": {
+    "Description": "Zero-based source table row (not table id)."
+  },
+  "source_onset_column": {
+    "Description": "NWB column used to calculate onset."
+  }
+}

@@ -1,0 +1,167 @@
+onset	duration	trial_type	source_table	source_row	source_onset_column	nwb_epochs_id	nwb_epochs_label	nwb_epochs_start_time	nwb_epochs_stop_time	nwb_invalid_times_id	nwb_invalid_times_start_time	nwb_invalid_times_stop_time	nwb_invalid_times_tags	nwb_invalid_times_timeseries	nwb_trials_condition	nwb_trials_cv_transition_time	nwb_trials_id	nwb_trials_speak	nwb_trials_start_time	nwb_trials_stop_time
+0.0	7.0	epochs	/intervals/epochs	0	start_time	0	rest_period	0.0	7.0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+14.2020408163	0.3990929704999999	trials	/intervals/trials	0	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	yee	14.3916099773	0	true	14.2020408163	14.6011337868
+14.3916099773	0.0	cv_transition	/intervals/trials	0	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	yee	14.3916099773	0	true	14.2020408163	14.6011337868
+17.042648705754115	0.346308420056765	trials	/intervals/trials	1	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	koo	17.109385224202555	1	true	17.042648705754115	17.38895712581088
+17.109385224202555	0.0	cv_transition	/intervals/trials	1	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	koo	17.109385224202555	1	true	17.042648705754115	17.38895712581088
+19.642440287274148	0.5260404383258503	trials	/intervals/trials	2	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	skee	19.7993197279	2	true	19.642440287274148	20.1684807256
+19.7993197279	0.0	cv_transition	/intervals/trials	2	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	skee	19.7993197279	2	true	19.642440287274148	20.1684807256
+22.445797926119244	0.41845600756859014	trials	/intervals/trials	3	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	roo	22.53417872082123	3	true	22.445797926119244	22.864253933687834
+22.53417872082123	0.0	cv_transition	/intervals/trials	3	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	roo	22.53417872082123	3	true	22.445797926119244	22.864253933687834
+24.708508600518027	0.3388836896819747	trials	/intervals/trials	4	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	tee	24.7780045351	4	true	24.708508600518027	25.0473922902
+24.7780045351	0.0	cv_transition	/intervals/trials	4	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	tee	24.7780045351	4	true	24.708508600518027	25.0473922902
+27.540808807671116	0.35532686849574446	trials	/intervals/trials	5	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	foo	27.668870775504608	5	true	27.540808807671116	27.89613567616686
+27.668870775504608	0.0	cv_transition	/intervals/trials	5	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	foo	27.668870775504608	5	true	27.540808807671116	27.89613567616686
+29.5272108844	0.3192743764000028	trials	/intervals/trials	6	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	daa	29.5770975057	6	true	29.5272108844	29.8464852608
+29.5770975057	0.0	cv_transition	/intervals/trials	6	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	daa	29.5770975057	6	true	29.5272108844	29.8464852608
+32.49517379896958	0.2615350047303622	trials	/intervals/trials	7	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	noo	32.565517696793606	7	true	32.49517379896958	32.756708803699944
+32.565517696793606	0.0	cv_transition	/intervals/trials	7	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	noo	32.565517696793606	7	true	32.49517379896958	32.756708803699944
+34.0469387755	0.3591836734999987	trials	/intervals/trials	8	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	waa	34.1866213152	8	true	34.0469387755	34.406122449
+34.1866213152	0.0	cv_transition	/intervals/trials	8	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	waa	34.1866213152	8	true	34.0469387755	34.406122449
+37.0002267574	0.3591836733999969	trials	/intervals/trials	9	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	paa	37.0800453515	9	true	37.0002267574	37.3594104308
+37.0800453515	0.0	cv_transition	/intervals/trials	9	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	paa	37.0800453515	9	true	37.0002267574	37.3594104308
+41.24488311204326	0.3449128063567386	trials	/intervals/trials	10	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	shaa	41.4201814059	10	true	41.24488311204326	41.5897959184
+41.4201814059	0.0	cv_transition	/intervals/trials	10	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	shaa	41.4201814059	10	true	41.24488311204326	41.5897959184
+41.667500000000004	0.05750000000000455	invalid_times	/intervals/invalid_times	0	start_time	n/a	n/a	n/a	n/a	0	41.667500000000004	41.72500000000001	"[""ECoG artifact""]"	"[{""idx_start"":127159,""count"":175,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+42.290000000000006	0.045000000000001705	invalid_times	/intervals/invalid_times	1	start_time	n/a	n/a	n/a	n/a	1	42.290000000000006	42.33500000000001	"[""ECoG artifact""]"	"[{""idx_start"":129058,""count"":138,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+43.99220093186879	0.24530179754020764	trials	/intervals/trials	11	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	woo	44.06254482969282	11	true	43.99220093186879	44.237502729408995
+44.06254482969282	0.0	cv_transition	/intervals/trials	11	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	woo	44.06254482969282	11	true	43.99220093186879	44.237502729408995
+46.54153101502984	0.35171948912014983	trials	/intervals/trials	12	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	thoo	46.62450074066844	12	true	46.54153101502984	46.89325050414999
+46.62450074066844	0.0	cv_transition	/intervals/trials	12	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	thoo	46.62450074066844	12	true	46.54153101502984	46.89325050414999
+49.45306822224339	0.3228604541154141	trials	/intervals/trials	13	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	woo	49.55046746538435	13	true	49.45306822224339	49.7759286763588
+49.55046746538435	0.0	cv_transition	/intervals/trials	13	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	woo	49.55046746538435	13	true	49.45306822224339	49.7759286763588
+51.626984127	0.3092970520999998	trials	/intervals/trials	14	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	51.6968253968	14	true	51.626984127	51.9362811791
+51.6968253968	0.0	cv_transition	/intervals/trials	14	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	51.6968253968	14	true	51.626984127	51.9362811791
+53.89367434281524	0.2507128666035854	trials	/intervals/trials	15	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	53.931551826258946	15	true	53.89367434281524	54.144387209418824
+53.931551826258946	0.0	cv_transition	/intervals/trials	15	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	53.931551826258946	15	true	53.89367434281524	54.144387209418824
+56.67250000000001	0.0625	invalid_times	/intervals/invalid_times	2	start_time	n/a	n/a	n/a	n/a	2	56.67250000000001	56.73500000000001	"[""ECoG artifact""]"	"[{""idx_start"":172950,""count"":191,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+57.0845804989	0.3591836733999969	trials	/intervals/trials	16	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	raa	57.2741496599	16	true	57.0845804989	57.4437641723
+57.2741496599	0.0	cv_transition	/intervals/trials	16	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	raa	57.2741496599	16	true	57.0845804989	57.4437641723
+58.8006802721	0.3492063491999957	trials	/intervals/trials	17	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kee	58.910430839	17	true	58.8006802721	59.1498866213
+58.910430839	0.0	cv_transition	/intervals/trials	17	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kee	58.910430839	17	true	58.8006802721	59.1498866213
+60.78960878582809	0.3657200123719164	trials	/intervals/trials	18	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	zoo	60.8859410431	18	true	60.78960878582809	61.1553287982
+60.8859410431	0.0	cv_transition	/intervals/trials	18	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	zoo	60.8859410431	18	true	60.78960878582809	61.1553287982
+62.31750000000001	0.03249999999999886	invalid_times	/intervals/invalid_times	3	start_time	n/a	n/a	n/a	n/a	3	62.31750000000001	62.35000000000001	"[""ECoG artifact""]"	"[{""idx_start"":190177,""count"":100,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+64.2183673469	0.3492063492000028	trials	/intervals/trials	19	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	64.3380952381	19	true	64.2183673469	64.5675736961
+64.3380952381	0.0	cv_transition	/intervals/trials	19	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	64.3380952381	19	true	64.2183673469	64.5675736961
+67.480952381	0.3591836734000111	trials	/intervals/trials	20	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	thaa	67.5707482993	20	true	67.480952381	67.8401360544
+67.5707482993	0.0	cv_transition	/intervals/trials	20	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	thaa	67.5707482993	20	true	67.480952381	67.8401360544
+70.0451247166	0.28934240360000274	trials	/intervals/trials	21	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	dee	70.0850340136	21	true	70.0451247166	70.3344671202
+70.0850340136	0.0	cv_transition	/intervals/trials	21	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	dee	70.0850340136	21	true	70.0451247166	70.3344671202
+72.5793650794	0.3591836733999969	trials	/intervals/trials	22	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ya	72.6891156463	22	true	72.5793650794	72.9385487528
+72.6891156463	0.0	cv_transition	/intervals/trials	22	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ya	72.6891156463	22	true	72.5793650794	72.9385487528
+74.6088273723822	0.2651423841059568	trials	/intervals/trials	23	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ha	74.6521159248893	23	true	74.6088273723822	74.87396975648815
+74.6521159248893	0.0	cv_transition	/intervals/trials	23	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ha	74.6521159248893	23	true	74.6088273723822	74.87396975648815
+76.4423852472882	0.25761475271180245	trials	/intervals/trials	24	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	76.49649593792206	24	true	76.4423852472882	76.7
+76.49649593792206	0.0	cv_transition	/intervals/trials	24	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	76.49649593792206	24	true	76.4423852472882	76.7
+77.17500000000001	0.060000000000002274	invalid_times	/intervals/invalid_times	4	start_time	n/a	n/a	n/a	n/a	4	77.17500000000001	77.23500000000001	"[""ECoG artifact""]"	"[{""idx_start"":235519,""count"":183,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+78.8850340136	0.2993197278999986	trials	/intervals/trials	25	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	laa	78.974829932	25	true	78.8850340136	79.1843537415
+78.974829932	0.0	cv_transition	/intervals/trials	25	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	laa	78.974829932	25	true	78.8850340136	79.1843537415
+81.479138322	0.3192743764000028	trials	/intervals/trials	26	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	nee	81.6587301587	26	true	81.479138322	81.7984126984
+81.6587301587	0.0	cv_transition	/intervals/trials	26	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	nee	81.6587301587	26	true	81.479138322	81.7984126984
+83.7140589569	0.3492063492000028	trials	/intervals/trials	27	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kee	83.793877551	27	true	83.7140589569	84.0632653061
+83.793877551	0.0	cv_transition	/intervals/trials	27	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kee	83.793877551	27	true	83.7140589569	84.0632653061
+86.79453011029236	0.22906859035005311	trials	/intervals/trials	28	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	yee	86.82519283498489	28	true	86.79453011029236	87.02359870064241
+86.82519283498489	0.0	cv_transition	/intervals/trials	28	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	yee	86.82519283498489	28	true	86.79453011029236	87.02359870064241
+88.70740861105739	0.34043719394260563	trials	/intervals/trials	29	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	zoo	88.77053775013025	29	true	88.70740861105739	89.047845805
+88.77053775013025	0.0	cv_transition	/intervals/trials	29	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	zoo	88.77053775013025	29	true	88.70740861105739	89.047845805
+88.83250000000001	0.07500000000000284	invalid_times	/intervals/invalid_times	5	start_time	n/a	n/a	n/a	n/a	5	88.83250000000001	88.90750000000001	"[""ECoG artifact""]"	"[{""idx_start"":271095,""count"":229,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+90.13000000000001	0.03499999999999659	invalid_times	/intervals/invalid_times	6	start_time	n/a	n/a	n/a	n/a	6	90.13000000000001	90.165	"[""ECoG artifact""]"	"[{""idx_start"":275054,""count"":107,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+90.915	0.07750000000000057	invalid_times	/intervals/invalid_times	7	start_time	n/a	n/a	n/a	n/a	7	90.915	90.9925	"[""ECoG artifact""]"	"[{""idx_start"":277450,""count"":237,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+91.7816326531	0.3990929704999928	trials	/intervals/trials	30	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	shaa	91.94537183886264	30	true	91.7816326531	92.1807256236
+91.94537183886264	0.0	cv_transition	/intervals/trials	30	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	shaa	91.94537183886264	30	true	91.7816326531	92.1807256236
+93.3281179138	0.3392290249999945	trials	/intervals/trials	31	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	saa	93.4578231293	31	true	93.3281179138	93.6673469388
+93.4578231293	0.0	cv_transition	/intervals/trials	31	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	saa	93.4578231293	31	true	93.3281179138	93.6673469388
+94.6551020408	0.3990929704999928	trials	/intervals/trials	32	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	fee	94.7448979592	32	true	94.6551020408	95.0541950113
+94.7448979592	0.0	cv_transition	/intervals/trials	32	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	fee	94.7448979592	32	true	94.6551020408	95.0541950113
+95.36250000000001	0.06499999999999773	invalid_times	/intervals/invalid_times	8	start_time	n/a	n/a	n/a	n/a	8	95.36250000000001	95.42750000000001	"[""ECoG artifact""]"	"[{""idx_start"":291023,""count"":198,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+96.29500000000002	0.06749999999999545	invalid_times	/intervals/invalid_times	9	start_time	n/a	n/a	n/a	n/a	9	96.29500000000002	96.36250000000001	"[""ECoG artifact""]"	"[{""idx_start"":293869,""count"":206,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+96.5108843537	0.3392290249999945	trials	/intervals/trials	33	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	fee	96.5507936508	33	true	96.5108843537	96.8501133787
+96.5507936508	0.0	cv_transition	/intervals/trials	33	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	fee	96.5507936508	33	true	96.5108843537	96.8501133787
+97.9575963719	0.32925170069999865	trials	/intervals/trials	34	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	taa	98.0473922902	34	true	97.9575963719	98.2868480726
+98.0473922902	0.0	cv_transition	/intervals/trials	34	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	taa	98.0473922902	34	true	97.9575963719	98.2868480726
+100.631519274	0.329251701000004	trials	/intervals/trials	35	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	thaa	100.701360544	35	true	100.631519274	100.960770975
+100.701360544	0.0	cv_transition	/intervals/trials	35	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	thaa	100.701360544	35	true	100.631519274	100.960770975
+102.836507937	0.269387755000011	trials	/intervals/trials	36	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	taa	102.916326531	36	true	102.836507937	103.105895692
+102.916326531	0.0	cv_transition	/intervals/trials	36	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	taa	102.916326531	36	true	102.836507937	103.105895692
+105.7680723660944	0.329063204155176	trials	/intervals/trials	37	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	woo	105.851042091733	37	true	105.7680723660944	106.09713557024958
+105.851042091733	0.0	cv_transition	/intervals/trials	37	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	woo	105.851042091733	37	true	105.7680723660944	106.09713557024958
+106.77000000000001	0.022500000000007958	invalid_times	/intervals/invalid_times	10	start_time	n/a	n/a	n/a	n/a	10	106.77000000000001	106.79250000000002	"[""ECoG artifact""]"	"[{""idx_start"":325836,""count"":68,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+107.356235828	0.5188208610000089	trials	/intervals/trials	38	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	soo	107.545804989	38	true	107.356235828	107.875056689
+107.545804989	0.0	cv_transition	/intervals/trials	38	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	soo	107.545804989	38	true	107.356235828	107.875056689
+109.740816327	0.3990929699999981	trials	/intervals/trials	39	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	loo	109.770748299	39	true	109.740816327	110.139909297
+109.770748299	0.0	cv_transition	/intervals/trials	39	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	loo	109.770748299	39	true	109.740816327	110.139909297
+111.94390882801149	0.2615350047125844	trials	/intervals/trials	40	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	moo	112.00523427739236	40	true	111.94390882801149	112.20544383272407
+112.00523427739236	0.0	cv_transition	/intervals/trials	40	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	moo	112.00523427739236	40	true	111.94390882801149	112.20544383272407
+114.739455782	0.329251701000004	trials	/intervals/trials	41	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ree	114.849206349	41	true	114.739455782	115.068707483
+114.849206349	0.0	cv_transition	/intervals/trials	41	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	ree	114.849206349	41	true	114.739455782	115.068707483
+115.40000000000002	0.04749999999999943	invalid_times	/intervals/invalid_times	11	start_time	n/a	n/a	n/a	n/a	11	115.40000000000002	115.44750000000002	"[""ECoG artifact""]"	"[{""idx_start"":352172,""count"":145,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+116.764852608	0.33922902500000873	trials	/intervals/trials	42	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	pee	116.824716553	42	true	116.764852608	117.104081633
+116.824716553	0.0	cv_transition	/intervals/trials	42	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	pee	116.824716553	42	true	116.764852608	117.104081633
+120.167120181	0.3192743769999993	trials	/intervals/trials	43	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	wee	120.286848073	43	true	120.167120181	120.486394558
+120.286848073	0.0	cv_transition	/intervals/trials	43	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	wee	120.286848073	43	true	120.167120181	120.486394558
+123.070521542	0.31927437600000985	trials	/intervals/trials	44	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	tee	123.130385488	44	true	123.070521542	123.389795918
+123.130385488	0.0	cv_transition	/intervals/trials	44	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	tee	123.130385488	44	true	123.070521542	123.389795918
+123.33250000000002	0.044999999999987494	invalid_times	/intervals/invalid_times	12	start_time	n/a	n/a	n/a	n/a	12	123.33250000000002	123.37750000000001	"[""ECoG artifact""]"	"[{""idx_start"":376380,""count"":138,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+124.97877327777009	0.23808703877283222	trials	/intervals/trials	45	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	goo	125.02025814058656	45	true	124.97877327777009	125.21686031654292
+125.02025814058656	0.0	cv_transition	/intervals/trials	45	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	goo	125.02025814058656	45	true	124.97877327777009	125.21686031654292
+127.05250000000002	0.04249999999998977	invalid_times	/intervals/invalid_times	13	start_time	n/a	n/a	n/a	n/a	13	127.05250000000002	127.09500000000001	"[""ECoG artifact""]"	"[{""idx_start"":387733,""count"":130,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+127.570294785	0.359183673000004	trials	/intervals/trials	46	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	paa	127.63015873	46	true	127.570294785	127.929478458
+127.63015873	0.0	cv_transition	/intervals/trials	46	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	paa	127.63015873	46	true	127.570294785	127.929478458
+128.4625	0.03500000000002501	invalid_times	/intervals/invalid_times	14	start_time	n/a	n/a	n/a	n/a	14	128.4625	128.49750000000003	"[""ECoG artifact""]"	"[{""idx_start"":392036,""count"":107,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+129.336281179	0.329251701000004	trials	/intervals/trials	47	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	zee	129.416099773	47	true	129.336281179	129.66553288
+129.34000000000003	0.01999999999998181	invalid_times	/intervals/invalid_times	15	start_time	n/a	n/a	n/a	n/a	15	129.34000000000003	129.36	"[""ECoG artifact""]"	"[{""idx_start"":394714,""count"":61,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+129.416099773	0.0	cv_transition	/intervals/trials	47	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	zee	129.416099773	47	true	129.336281179	129.66553288
+129.69250000000002	0.03999999999999204	invalid_times	/intervals/invalid_times	16	start_time	n/a	n/a	n/a	n/a	16	129.69250000000002	129.73250000000002	"[""ECoG artifact""]"	"[{""idx_start"":395790,""count"":122,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+131.541269841	0.3591836740000076	trials	/intervals/trials	48	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	naa	131.591156463	48	true	131.541269841	131.900453515
+131.591156463	0.0	cv_transition	/intervals/trials	48	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	naa	131.591156463	48	true	131.541269841	131.900453515
+134.973469388	0.439002266999978	trials	/intervals/trials	49	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	baa	135.103174603	49	true	134.973469388	135.412471655
+135.103174603	0.0	cv_transition	/intervals/trials	49	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	baa	135.103174603	49	true	134.973469388	135.412471655
+137.298185941	0.3891156459999934	trials	/intervals/trials	50	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	nee	137.437868481	50	true	137.298185941	137.687301587
+137.437868481	0.0	cv_transition	/intervals/trials	50	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	nee	137.437868481	50	true	137.298185941	137.687301587
+140.051927438	0.3392290249999803	trials	/intervals/trials	51	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	vaa	140.131746032	51	true	140.051927438	140.391156463
+140.131746032	0.0	cv_transition	/intervals/trials	51	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	vaa	140.131746032	51	true	140.051927438	140.391156463
+142.54975577574623	0.33368259221950325	trials	/intervals/trials	52	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	yoo	142.64174394981757	52	true	142.54975577574623	142.88343836796574
+142.64174394981757	0.0	cv_transition	/intervals/trials	52	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	yoo	142.64174394981757	52	true	142.54975577574623	142.88343836796574
+144.920861678	0.37913832200001707	trials	/intervals/trials	53	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	wee	145.060544218	53	true	144.920861678	145.3
+145.060544218	0.0	cv_transition	/intervals/trials	53	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	wee	145.060544218	53	true	144.920861678	145.3
+145.48250000000002	0.07500000000001705	invalid_times	/intervals/invalid_times	17	start_time	n/a	n/a	n/a	n/a	17	145.48250000000002	145.55750000000003	"[""ECoG artifact""]"	"[{""idx_start"":443977,""count"":229,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+147.02	0.03750000000002274	invalid_times	/intervals/invalid_times	18	start_time	n/a	n/a	n/a	n/a	18	147.02	147.05750000000003	"[""ECoG artifact""]"	"[{""idx_start"":448669,""count"":114,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+147.59057243336883	0.22365752127143423	trials	/intervals/trials	54	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	goo	147.63566467556066	54	true	147.59057243336883	147.81422995464027
+147.63566467556066	0.0	cv_transition	/intervals/trials	54	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	goo	147.63566467556066	54	true	147.59057243336883	147.81422995464027
+150.587981859	0.3492063500000029	trials	/intervals/trials	55	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	wee	150.707709751	55	true	150.587981859	150.937188209
+150.707709751	0.0	cv_transition	/intervals/trials	55	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	wee	150.707709751	55	true	150.587981859	150.937188209
+152.483673469	0.30929705299999455	trials	/intervals/trials	56	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	nee	152.553514739	56	true	152.483673469	152.792970522
+152.553514739	0.0	cv_transition	/intervals/trials	56	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	nee	152.553514739	56	true	152.483673469	152.792970522
+154.728571429	0.3691609969999945	trials	/intervals/trials	57	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	waa	154.858276644	57	true	154.728571429	155.097732426
+154.858276644	0.0	cv_transition	/intervals/trials	57	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	waa	154.858276644	57	true	154.728571429	155.097732426
+156.903628118	0.25941043099999206	trials	/intervals/trials	58	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	paa	156.963492063	58	true	156.903628118	157.163038549
+156.963492063	0.0	cv_transition	/intervals/trials	58	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	paa	156.963492063	58	true	156.903628118	157.163038549
+159.896825397	0.37913832200001707	trials	/intervals/trials	59	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kaa	159.966666667	59	true	159.896825397	160.275963719
+159.966666667	0.0	cv_transition	/intervals/trials	59	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kaa	159.966666667	59	true	159.896825397	160.275963719
+162.33818945434405	0.24169441814817105	trials	/intervals/trials	60	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kay	162.37967431716052	60	true	162.33818945434405	162.57988387249222
+162.37967431716052	0.0	cv_transition	/intervals/trials	60	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	kay	162.37967431716052	60	true	162.33818945434405	162.57988387249222
+165.114965986	0.2993197280000004	trials	/intervals/trials	61	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	165.19478458	61	true	165.114965986	165.414285714
+165.19478458	0.0	cv_transition	/intervals/trials	61	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	165.19478458	61	true	165.114965986	165.414285714
+166.601587302	0.4589569159999769	trials	/intervals/trials	62	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	shee	166.79142140271452	62	true	166.601587302	167.060544218
+166.79142140271452	0.0	cv_transition	/intervals/trials	62	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	shee	166.79142140271452	62	true	166.601587302	167.060544218
+172.16984127	0.3990929699999981	trials	/intervals/trials	63	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	baa	172.329478458	63	true	172.16984127	172.56893424
+172.329478458	0.0	cv_transition	/intervals/trials	63	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	baa	172.329478458	63	true	172.16984127	172.56893424
+173.556689342	0.4988662140000031	trials	/intervals/trials	64	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	173.776190476	64	true	173.556689342	174.055555556
+173.776190476	0.0	cv_transition	/intervals/trials	64	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	173.776190476	64	true	173.556689342	174.055555556
+176.170748299	0.28934240399999567	trials	/intervals/trials	65	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	laa	176.230612245	65	true	176.170748299	176.460090703
+176.230612245	0.0	cv_transition	/intervals/trials	65	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	laa	176.230612245	65	true	176.170748299	176.460090703
+177.846938776	0.47891156399998636	trials	/intervals/trials	66	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	fee	178.046485261	66	true	177.846938776	178.32585034
+178.046485261	0.0	cv_transition	/intervals/trials	66	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	fee	178.046485261	66	true	177.846938776	178.32585034
+180.96378685200085	0.3968117312880395	trials	/intervals/trials	67	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	181.13152999295443	67	true	180.96378685200085	181.3605985832889
+181.13152999295443	0.0	cv_transition	/intervals/trials	67	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	see	181.13152999295443	67	true	180.96378685200085	181.3605985832889
+182.27813306670637	0.40780797629363974	trials	/intervals/trials	68	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	saa	182.416553288	68	true	182.27813306670637	182.685941043
+182.416553288	0.0	cv_transition	/intervals/trials	68	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	saa	182.416553288	68	true	182.27813306670637	182.685941043
+182.98750000000004	0.07749999999998636	invalid_times	/intervals/invalid_times	19	start_time	n/a	n/a	n/a	n/a	19	182.98750000000004	183.06500000000003	"[""ECoG artifact""]"	"[{""idx_start"":558433,""count"":237,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+183.29655510765875	0.2651423710082099	trials	/intervals/trials	69	start_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	183.36148793321178	69	true	183.29655510765875	183.56169747866696
+183.36148793321178	0.0	cv_transition	/intervals/trials	69	cv_transition_time	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	too	183.36148793321178	69	true	183.29655510765875	183.56169747866696
+184.60250000000002	0.05000000000001137	invalid_times	/intervals/invalid_times	20	start_time	n/a	n/a	n/a	n/a	20	184.60250000000002	184.65250000000003	"[""ECoG artifact""]"	"[{""idx_start"":563362,""count"":152,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+187.04500000000002	0.030000000000001137	invalid_times	/intervals/invalid_times	21	start_time	n/a	n/a	n/a	n/a	21	187.04500000000002	187.07500000000002	"[""ECoG artifact""]"	"[{""idx_start"":570816,""count"":91,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+189.51250000000002	0.09749999999999659	invalid_times	/intervals/invalid_times	22	start_time	n/a	n/a	n/a	n/a	22	189.51250000000002	189.61	"[""ECoG artifact""]"	"[{""idx_start"":578346,""count"":297,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+189.99750000000003	0.017499999999984084	invalid_times	/intervals/invalid_times	23	start_time	n/a	n/a	n/a	n/a	23	189.99750000000003	190.01500000000001	"[""ECoG artifact""]"	"[{""idx_start"":579826,""count"":53,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
+190.87000000000003	0.022500000000007958	invalid_times	/intervals/invalid_times	24	start_time	n/a	n/a	n/a	n/a	24	190.87000000000003	190.89250000000004	"[""ECoG artifact""]"	"[{""idx_start"":582489,""count"":68,""timeseries"":""/acquisition/ElectricalSeries""}]"	n/a	n/a	n/a	n/a	n/a	n/a
