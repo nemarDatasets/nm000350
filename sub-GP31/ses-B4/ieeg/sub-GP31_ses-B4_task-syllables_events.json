@@ -5,7 +5,10 @@
   },
   "nwb_epochs_label": {
     "Description": "label",
-    "Source": "/intervals/epochs/label"
+    "Source": "/intervals/epochs/label",
+    "Levels": {
+      "rest_period": "Rest period when the subject was silent; can be used as a baseline (source collection description)."
+    }
   },
   "nwb_epochs_start_time": {
     "Description": "Start time of epoch, in seconds",
@@ -18,7 +21,7 @@
     "Units": "s"
   },
   "nwb_trials_condition": {
-    "Description": "syllable spoken",
+    "Description": "syllable spoken (source column description); consonant-vowel syllable label as hand-annotated in the source. n/a where the source string is empty or the row is not a trial.",
     "Source": "/intervals/trials/condition"
   },
   "nwb_trials_cv_transition_time": {
@@ -32,7 +35,11 @@
   },
   "nwb_trials_speak": {
     "Description": "if True, subject is speaking. If False, subject is listening",
-    "Source": "/intervals/trials/speak"
+    "Source": "/intervals/trials/speak",
+    "Levels": {
+      "true": "Subject is speaking (source column description).",
+      "false": "Subject is listening (source column description)."
+    }
   },
   "nwb_trials_start_time": {
     "Description": "Start time of epoch, in seconds",
@@ -45,7 +52,12 @@
     "Units": "s"
   },
   "trial_type": {
-    "Description": "NWB intervals table name, or cv_transition for explicit point event."
+    "Description": "NWB intervals table name, or cv_transition for explicit point event.",
+    "Levels": {
+      "trials": "Syllable production trial from the NWB trials table: onset = hand-marked syllable start, duration = start to stop (source collection: hand-marked annotations of the start, consonant-vowel transition and end of each syllable).",
+      "cv_transition": "Zero-duration point event at the hand-marked consonant-to-vowel transition of the trial (NWB trials column cv_transition_time).",
+      "epochs": "Interval from the NWB epochs table (rest_period: period when the subject was silent, usable as a baseline, per the source collection description)."
+    }
   },
   "source_table": {
     "Description": "Absolute NWB HDF5 interval table path."

@@ -1,6 +1,6 @@
 {
   "TaskName": "syllables",
-  "TaskDescription": "Reading aloud consonant-vowel syllables from a list (source collection description); the NWB trials column speak distinguishes speaking (True) from listening (False).",
+  "TaskDescription": "Reading aloud consonant-vowel syllables from a list (source collection description); the NWB trials column speak distinguishes speaking (True) from listening (False). In the source publication, subjects read aloud consonant-vowel syllables composed of 18-19 consonants followed by one of three vowels (/a/, /i/, /u/); each syllable was produced between 15 and 100 times, and microphone recordings were synchronized with the ECoG data (Bouchard et al. 2013, Nature 495:327-332, doi:10.1038/nature11911 (PMC3606666), Methods).",
   "SamplingFrequency": 3051.7578,
   "PowerLineFrequency": 60,
   "SoftwareFilters": "n/a",
@@ -35,5 +35,8 @@
       "median_channel_std": 3.2338354915443796e-05
     }
   },
-  "InstitutionName": "University of California, San Francisco"
+  "InstitutionName": "University of California, San Francisco",
+  "Manufacturer": "Tucker-Davis Technologies",
+  "iEEGPlacementScheme": "High-density 256-channel subdural electrocorticography (ECoG) array (source collection description). In the source publication the arrays were placed over the left hemisphere (two subjects) or right hemisphere (one subject) as part of clinical treatment of epilepsy (Bouchard et al. 2013, Nature 495:327-332, doi:10.1038/nature11911 (PMC3606666), Methods).",
+  "iEEGElectrodeGroups": "'L256Grid electrodes': source NWB ElectrodeGroup of the 256-channel ECoG array"
 }

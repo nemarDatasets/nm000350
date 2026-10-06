@@ -8,12 +8,13 @@
     "Edward F Chang",
     "Ben Dichter"
   ],
-  "Acknowledgements": "Data collected by Edward F. Chang and Kristofer E. Bouchard (UCSF); NWB curation by Kristofer E. Bouchard and Ben Dichter (source collection description).",
+  "Acknowledgements": "Data collected by Edward F. Chang and Kristofer E. Bouchard (UCSF); NWB curation by Kristofer E. Bouchard and Ben Dichter (source collection description). The source publication acknowledges Angela Ren for technical help with data collection and pre-processing, and Miranda Babiak for audio transcription (Bouchard et al. 2013, Nature 495:327-332, doi:10.1038/nature11911 (PMC3606666), Acknowledgements).",
   "HowToAcknowledge": "Cite Bouchard KE, Mesgarani N, Johnson K, Chang EF (2013) Functional organization of human sensorimotor cortex for speech articulation. Nature 495:327-332, doi:10.1038/nature11911, and the source data collection: Bouchard, Kristofer E.; Chang, Edward F (2019). Human ECoG speaking consonant-vowel syllables. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4617263.v4",
   "Funding": [
-    "R00-NS065120",
-    "DP2-OD00862",
-    "R01-DC012379"
+    "National Institutes of Health R00-NS065120",
+    "National Institutes of Health DP2-OD00862",
+    "National Institutes of Health R01-DC012379",
+    "Ester A. and Joseph Klingenstein Foundation"
   ],
   "EthicsApprovals": [
     "Human Research Protection Program, University of California, San Francisco: \"The experimental protocol was approved by the Human Research Protection Program at the University of California, San Francisco.\" \"Subjects gave their written informed consent before the day of surgery.\" (Bouchard et al. 2013, Nature 495:327-332, doi:10.1038/nature11911, Methods; PMC3606666)."
@@ -21,7 +22,8 @@
   "ReferencesAndLinks": [
     "https://doi.org/10.1038/nature11911",
     "https://doi.org/10.6084/m9.figshare.c.4617263.v4",
-    "https://doi.org/10.48324/dandi.000019/0.220126.2148"
+    "https://doi.org/10.48324/dandi.000019/0.220126.2148",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3606666/"
   ],
   "Keywords": [
     "electrocorticography",
@@ -30,7 +32,13 @@
     "speech production",
     "consonant-vowel syllables",
     "sensorimotor cortex",
-    "NWB"
+    "NWB",
+    "epilepsy",
+    "high-density ECoG",
+    "articulation",
+    "ventral sensorimotor cortex",
+    "Neuroscience",
+    "Linguistics"
   ],
   "GeneratedBy": [
     {
