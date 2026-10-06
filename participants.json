@@ -4,5 +4,23 @@
   },
   "species": {
     "Description": "NWB general/subject/species."
+  },
+  "grid_placement": {
+    "Description": "Column \"Grid Placement\", verbatim, Supplementary Table 1 \"Clinical information\" of Bouchard et al. 2013, Nature 495:327, doi:10.1038/nature11911 (Supplementary Information, 41586_2013_BFnature11911_MOESM48_ESM.pdf). Only sub-EC2 is listed under the same code in that table (its left 256-electrode grid, NWB group \"L256Grid\", agrees). The table also lists EC33 and EC31, which cannot be matched to GP33/GP31 with certainty, and EC9 is not listed: n/a for those."
+  },
+  "language_dominance": {
+    "Description": "Column \"Cerebral Language Dominance by Wada Testing\", verbatim, Supplementary Table 1 \"Clinical information\" of Bouchard et al. 2013, Nature 495:327, doi:10.1038/nature11911 (Supplementary Information, 41586_2013_BFnature11911_MOESM48_ESM.pdf). Only sub-EC2 is listed under the same code in that table (its left 256-electrode grid, NWB group \"L256Grid\", agrees). The table also lists EC33 and EC31, which cannot be matched to GP33/GP31 with certainty, and EC9 is not listed: n/a for those."
+  },
+  "mri": {
+    "Description": "Column \"MRI\", verbatim, Supplementary Table 1 \"Clinical information\" of Bouchard et al. 2013, Nature 495:327, doi:10.1038/nature11911 (Supplementary Information, 41586_2013_BFnature11911_MOESM48_ESM.pdf). Only sub-EC2 is listed under the same code in that table (its left 256-electrode grid, NWB group \"L256Grid\", agrees). The table also lists EC33 and EC31, which cannot be matched to GP33/GP31 with certainty, and EC9 is not listed: n/a for those."
+  },
+  "seizure_focus": {
+    "Description": "Column \"Seizure Focus Location\", verbatim, Supplementary Table 1 \"Clinical information\" of Bouchard et al. 2013, Nature 495:327, doi:10.1038/nature11911 (Supplementary Information, 41586_2013_BFnature11911_MOESM48_ESM.pdf). Only sub-EC2 is listed under the same code in that table (its left 256-electrode grid, NWB group \"L256Grid\", agrees). The table also lists EC33 and EC31, which cannot be matched to GP33/GP31 with certainty, and EC9 is not listed: n/a for those."
+  },
+  "speech_articulation": {
+    "Description": "Column \"Speech Articulation\", verbatim, Supplementary Table 1 \"Clinical information\" of Bouchard et al. 2013, Nature 495:327, doi:10.1038/nature11911 (Supplementary Information, 41586_2013_BFnature11911_MOESM48_ESM.pdf). Only sub-EC2 is listed under the same code in that table (its left 256-electrode grid, NWB group \"L256Grid\", agrees). The table also lists EC33 and EC31, which cannot be matched to GP33/GP31 with certainty, and EC9 is not listed: n/a for those."
+  },
+  "postoperative_seizure_control": {
+    "Description": "Column \"Postoperative Seizure Control\", verbatim, Supplementary Table 1 \"Clinical information\" of Bouchard et al. 2013, Nature 495:327, doi:10.1038/nature11911 (Supplementary Information, 41586_2013_BFnature11911_MOESM48_ESM.pdf). Only sub-EC2 is listed under the same code in that table (its left 256-electrode grid, NWB group \"L256Grid\", agrees). The table also lists EC33 and EC31, which cannot be matched to GP33/GP31 with certainty, and EC9 is not listed: n/a for those."
   }
 }
