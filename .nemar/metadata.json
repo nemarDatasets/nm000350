@@ -1,0 +1,97 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Kristofer E. Bouchard": {
+      "orcid": "0000-0002-1974-4603"
+    },
+    "Edward F Chang": {},
+    "Ben Dichter": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.6084/m9.figshare.c.4617263.v4",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.48324/dandi.000019/0.220126.2148",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1038/nature11911",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000350",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000350",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "NIH",
+      "award_number": "R00-NS065120"
+    },
+    {
+      "funder_name": "NIH",
+      "award_number": "DP2-OD00862"
+    },
+    {
+      "funder_name": "NIH",
+      "award_number": "R01-DC012379"
+    }
+  ],
+  "title": "Human ECoG speaking consonant-vowel syllables",
+  "license": "MIT",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "51.77 GB (32 files)"
+  ],
+  "formats": [
+    ".json",
+    ".md",
+    ".nwb",
+    ".tsv"
+  ],
+  "description": "High-density (256-channel) electrocorticography (ECoG) recorded at the University of California, San Francisco from epilepsy patients reading aloud consonant-vowel syllables. The dataset comprises 31 sessions from four subjects, organized as iEEG-BIDS with byte-identical NWB 2.0 files. It includes trial, syllable and artifact event annotations, and supports study of speech articulation and sensorimotor cortex function.",
+  "methods_description": "Subjects undergoing clinical epilepsy treatment read consonant-vowel syllables aloud from a list while 256-channel ECoG was recorded at about 3051.76 Hz. The source NWB files were organized into BIDS without filtering, resampling, or re-referencing. Events were extracted from the NWB interval tables (trials, cv_transition, epochs, invalid_times).",
+  "keywords": [
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "ECoG"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "speech production"
+    },
+    {
+      "term": "consonant-vowel syllables"
+    },
+    {
+      "term": "sensorimotor cortex"
+    },
+    {
+      "term": "NWB"
+    }
+  ],
+  "source_hash": "2cdf38be579674c0122e6275fca864bd6b4747c6098fbb86d140a513eb3d7841"
+}
