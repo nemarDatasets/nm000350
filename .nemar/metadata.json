@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Human ECoG speaking consonant-vowel syllables",
-  "description": "High-density (256-channel) electrocorticography recorded at UCSF from epilepsy patients while they read aloud consonant-vowel syllables. The dataset includes four subject codes and 31 recording blocks stored as NWB files organized in iEEG-BIDS, with hand-marked annotations of syllable onset, consonant-vowel transition and offset. It supports studies of the functional organization of human ventral sensorimotor cortex during speech articulation.",
-  "methods_description": "Cortical local field potentials were recorded with subdural high-density ECoG arrays and a multichannel amplifier connected to a Tucker-Davis Technologies digital signal processor, sampled at about 3052 Hz. Participants read aloud consonant-vowel syllables (18-19 consonants followed by /a/, /u/ or /i/). Syllable timing was hand-marked from the speech recordings. The files are byte-identical copies of the source NWB files with BIDS sidecars added.",
+  "description": "High-density (256-channel) electrocorticography recorded at UCSF from patients undergoing clinical treatment for epilepsy while they read aloud consonant-vowel syllables from a list. The dataset comprises 31 recording blocks across four subject codes, with hand-marked annotations of syllable identity, onset, consonant-vowel transition and offset, plus rest baseline periods and anatomical electrode labels. It supports study of the functional organization of human ventral sensorimotor cortex during speech articulation and is organized as iEEG-BIDS with source NWB files retained unchanged.",
+  "methods_description": "Cortical local field potentials were recorded with subdural high-density 256-channel ECoG arrays and a multi-channel amplifier connected to a Tucker-Davis Technologies digital signal processor, sampled at about 3052 Hz. Subjects read aloud consonant-vowel syllables (18-19 consonants followed by /a/, /u/ or /i/), and syllable timing was hand-marked from synchronized speech recordings. The microphone audio was removed by the source for HIPAA compliance.",
   "license": "MIT",
   "dataset_type": "raw",
   "authors": {
@@ -18,6 +18,9 @@
       "term": "Electrocorticography",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "ECoG"
     },
     {
       "term": "iEEG"
@@ -35,9 +38,6 @@
       "term": "Epilepsy",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "NWB"
     }
   ],
   "related_identifiers": [
@@ -99,5 +99,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "fd16b8b54059a664dc49284a0d0e5bf9ae9bde23f54d79707603a9d065a68799"
+  "source_hash": "4df055ceda213bf628025cfaec82771f72cb25229c94d23fa2aad166217cf7c6"
 }
