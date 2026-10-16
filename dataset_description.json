@@ -1,5 +1,5 @@
 {
-  "Name": "Bouchard-2013-functional-10.1038/nature11911",
+  "Name": "Human ECoG speaking consonant-vowel syllables",
   "BIDSVersion": "1.11.0",
   "DatasetType": "raw",
   "License": "MIT",
@@ -60,5 +60,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000350",
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }

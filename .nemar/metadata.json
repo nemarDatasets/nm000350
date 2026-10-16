@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Bouchard-2013-functional-10.1038/nature11911",
+  "title": "Human ECoG speaking consonant-vowel syllables",
   "description": "High-density (256-channel) electrocorticography (ECoG) recorded at the University of California, San Francisco from epilepsy patients reading aloud consonant-vowel syllables. The dataset contains 31 recording blocks from four subject codes, with hand-marked annotations of syllable onset, consonant-vowel transition and offset, and electrode anatomical labels. It is organised as iEEG-BIDS with byte-identical NWB files, and supports study of speech articulation in human ventral sensorimotor cortex.",
   "methods_description": "Cortical local field potentials were recorded with subdural high-density 256-channel ECoG arrays and a multichannel amplifier connected to a Tucker-Davis Technologies digital signal processor, sampled at about 3052 Hz. Participants read aloud consonant-vowel syllables (18-19 consonants followed by /a/, /u/ or /i/) from a list. Syllable timing was hand-annotated from speech recordings, and the microphone audio was removed from the shared files.",
   "license": "MIT",
@@ -99,5 +99,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "27c9e6ebe3ffc38d30aec9920475debeff5a09ceee31ec46410145f8fbcc1dd0"
+  "source_hash": "659316f542adbb0ecb0385ab65e97a07d6c3e8a47acc1384c9b861d0938e3940"
 }
