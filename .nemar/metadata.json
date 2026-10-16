@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Human ECoG speaking consonant-vowel syllables",
-  "description": "High-density (256-channel) electrocorticography (ECoG) recorded at the University of California, San Francisco from epilepsy patients reading aloud consonant-vowel syllables. The dataset contains 31 recording blocks from four subject codes, with hand-marked annotations of syllable onset, consonant-vowel transition and offset, and electrode anatomical labels. It is organised as iEEG-BIDS with byte-identical NWB files, and supports study of speech articulation in human ventral sensorimotor cortex.",
-  "methods_description": "Cortical local field potentials were recorded with subdural high-density 256-channel ECoG arrays and a multichannel amplifier connected to a Tucker-Davis Technologies digital signal processor, sampled at about 3052 Hz. Participants read aloud consonant-vowel syllables (18-19 consonants followed by /a/, /u/ or /i/) from a list. Syllable timing was hand-annotated from speech recordings, and the microphone audio was removed from the shared files.",
+  "description": "High-density (256-channel) electrocorticography (ECoG) recorded at the University of California, San Francisco from epilepsy patients who read aloud consonant-vowel syllables. The dataset includes 31 recording blocks from four subject codes, with hand-marked annotations of syllable onset, consonant-vowel transition and offset, rest baselines, and anatomical electrode labels. It supports research on the functional organization of human ventral sensorimotor cortex during speech articulation. Data are organized as iEEG-BIDS with the source NWB files preserved byte-identically.",
+  "methods_description": "Cortical local field potentials were recorded with subdural high-density 256-channel ECoG arrays and a multichannel amplifier optically connected to a Tucker-Davis Technologies digital signal processor, sampled at about 3052 Hz. Subjects read aloud consonant-vowel syllables (18-19 consonants followed by /a/, /u/ or /i/), and syllable timing was hand-annotated off-line from synchronized microphone recordings. The audio was removed from the released data.",
   "license": "MIT",
   "dataset_type": "raw",
   "authors": {
@@ -23,21 +23,21 @@
       "term": "ECoG"
     },
     {
-      "term": "speech production"
+      "term": "iEEG"
     },
     {
-      "term": "sensorimotor cortex"
+      "term": "speech production"
     },
     {
       "term": "consonant-vowel syllables"
     },
     {
+      "term": "sensorimotor cortex"
+    },
+    {
       "term": "Epilepsy",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "NWB"
     }
   ],
   "related_identifiers": [
